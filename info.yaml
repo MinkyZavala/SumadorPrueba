@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     481148502212218881       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Sumador de prueba"      # Project title
+  title:        "Sumadordeprueba"      # Project title
   author:       "Diego Zavala"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Este programa es una prueba de la escuela"      # One line description of what your project does
